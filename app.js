@@ -1,4 +1,3 @@
-// const BASE_URL = "https://api.frankfurter.app/latest?amount=1&from=USD&to=JPY";
 const dropdowns = document.querySelectorAll(" .dropdown select");
 const btn = document.querySelector(".btn")
 const fromCurrency = document.querySelector(".from select");
